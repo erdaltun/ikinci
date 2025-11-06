@@ -1,0 +1,1 @@
+Erdal ilk defa git kullanarak githuba  dosya yüklemek istiyor.
